@@ -10,6 +10,9 @@
 ## Contact me
 [<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discord.com/users/719880130280816730)
 
+## Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkaMikeee&show_icons=true&theme=radical" alt="GitHub Stats" />
+
 <!---
 MikeDeveloperElectroDevelopment2021/MikeDeveloperElectroDevelopment2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
