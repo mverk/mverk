@@ -9,7 +9,7 @@
 
 ## Contact me
 [<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discord.com/users/719880130280816730)
-
+<br>
 
 
 ## Stats
