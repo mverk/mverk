@@ -10,7 +10,7 @@
 ## Projects
 [EasyDash](https://studio-electro.nl/easydash) - 
 [StudioElectro](https://studio-electro.nl) -
-[D-Sharp](https://dsharp.com) -
+[D-Sharp](https://dsharp.net) -
 [D-Sharp Docs](https://akamikeee.gitbook.io/dsharp) -
 [PepperAI](https://pepper-ai.space)
 
