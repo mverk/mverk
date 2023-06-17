@@ -4,6 +4,7 @@
 - 👀 I’m interested in HTML, CSS, JavaScript, C#, Flask (Python)
 - 🌱 I’m currently learning Python and C#
 - ⚙ Working on my own Programming Language (D#)
+- 🌐 Creating EasyDash, an easy way to manage your hosting
 - 📫 Dm me on discord: @mike.6238
 
 <!---
