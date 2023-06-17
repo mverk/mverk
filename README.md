@@ -8,9 +8,11 @@
 - 📫 Dm me on discord: @mike.6238
 
 ## Projects
-[EasyDash](https://studio-electro.nl/easydash)
-[StudioElectro](https://studio-electro.nl)
-[D-Sharp](https://dsharp.com) - [D-Sharp Docs](https://akamikeee.gitbook.io/dsharp)
+[EasyDash](https://studio-electro.nl/easydash) - 
+[StudioElectro](https://studio-electro.nl) -
+[D-Sharp](https://dsharp.com) -
+[D-Sharp Docs](https://akamikeee.gitbook.io/dsharp) -
+[PepperAI](https://pepper-ai.space)
 
 ## Contact me
 [<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discord.com/users/719880130280816730)
