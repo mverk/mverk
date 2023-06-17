@@ -1,3 +1,5 @@
+# Hi there! I'm Mike
+
 - 👋 Hi, I’m @mverk
 - 👀 I’m interested in HTML, CSS, JavaScript, C#, Flask (Python)
 - 🌱 I’m currently learning Python and C#
