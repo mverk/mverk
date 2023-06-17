@@ -21,6 +21,8 @@
 
 ## Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkaMikeee&show_icons=true&theme=radical" alt="GitHub Stats" />
+<br><br>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkaMikeee&theme=vue" alt="AkaMikeee" /></p>
 
 <!---
 MikeDeveloperElectroDevelopment2021/MikeDeveloperElectroDevelopment2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
