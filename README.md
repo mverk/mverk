@@ -4,7 +4,7 @@
 - 👀 I’m interested in HTML, CSS, JavaScript, C#, Flask (Python)
 - 🌱 I’m currently learning Python and C#
 - ⚙ Working on my own Programming Language (D#)
-- 🌐 Working on EadyDash and DigiMeal
+- 🌐 Working on EasyDash and DigiMeal
 - 💻 Working on fun virtual Web Applications (Web Light, AttractionController)
 - 📫 Dm me on discord: @mike.6238
 
