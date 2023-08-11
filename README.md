@@ -4,12 +4,14 @@
 - 👀 I’m interested in HTML, CSS, JavaScript, C#, Flask (Python)
 - 🌱 I’m currently learning Python and C#
 - ⚙ Working on my own Programming Language (D#)
-- 🌐 Creating EasyDash, an easy way to manage your hosting
+- 🌐 Working on EadyDash and DigiMeal
 - 💻 Working on fun virtual Web Applications (Web Light, AttractionController)
 - 📫 Dm me on discord: @mike.6238
 
 ## Projects
 [EasyDash](https://studio-electro.nl/easydash) - 
+[DigiMeal](https://studio-electro.nl/digimeal) - 
+[D-Sharp (StudioElectro)](https://studio-electro.nl/dsharp) - 
 [StudioElectro](https://studio-electro.nl) -
 [D-Sharp](https://dsharp.net) -
 [D-Sharp Docs](https://akamikeee.gitbook.io/dsharp) -
