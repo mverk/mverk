@@ -6,4 +6,8 @@
 - 🔊 Audio-visual technician
 -------------------------------------------------
 ### Contact me
-Discord[https://discord.com/users/719880130280816730]
+[Discord](https://discord.com/users/719880130280816730)
+[Telegram](https://t.me/mverkaik)
+[X](https://x.com/MikeVerkaik_)
+
+
