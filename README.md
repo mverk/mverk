@@ -3,7 +3,7 @@
 - 🖥️ Java, C, C++, JavaScript, HTML, CSS
 - 💻 Learning C#, NextJS, OpenGL and Python
 - 📜 Studied and graduated Havo N&T/N&G
-- 🏫 Computer Science student at Hogeschool Rotterdam
+- 🏫 Software- and Hardware engineer student at Hogeschool Rotterdam
 - 🔊 Audio-visual technician
 -------------------------------------------------
 ### Contact me
