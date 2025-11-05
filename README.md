@@ -1,7 +1,8 @@
 # 👋 Hi there!
 
-- 🖥️ Java, C, C++, JavaScript, HTML, CSS
+- 🖥️ Programming in Java, C, C++, JavaScript, HTML, CSS
 - 💻 Learning C#, NextJS, OpenGL and Python
+- ⛏️ Working with tools like Docker and JetBrains IDE's
 - 📜 Studied and graduated Havo N&T/N&G
 - 🏫 Software- and Hardware engineer student at Hogeschool Rotterdam
 - 🔊 Audio-visual technician at MM Licht&Geluid
