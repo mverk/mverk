@@ -6,6 +6,8 @@
 - 📜 Studied and graduated Havo N&T/N&G
 - 🏫 Software- and Hardware engineer student at Hogeschool Rotterdam
 - 🔊 Audio-visual technician at MM Licht&Geluid
+
+- Current projects: [Peblar Connect](https://github.com/mverk/peblar-connect)
 -------------------------------------------------
 ### Contact me
 - [Discord](https://discord.com/users/719880130280816730)
