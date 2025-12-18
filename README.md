@@ -8,6 +8,8 @@
 - 🔊 Audio-visual technician at MM Licht&Geluid
 
 - Current projects: [Peblar Connect](https://github.com/mverk/peblar-connect)
+
+- For more info: [engineering.mverk.nl](https://engineering.mverk.nl)
 -------------------------------------------------
 ### Contact me
 - [Discord](https://discord.com/users/719880130280816730)
